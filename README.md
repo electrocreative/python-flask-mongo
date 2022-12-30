@@ -1,4 +1,4 @@
-# python_flask_mongo
+# python-flask-mongo
 Simple ReST API example using the Python / Flask / MongoDB stack
 
 #### How to run:
